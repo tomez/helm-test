@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  deploy-base:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-06T14:19:13.109682+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 34c355520ca0de047b5d453cfa2b848eb39abff3c6372c44459bd1f631187e8a
+    name: deploy-base
+    type: application
+    urls:
+    - https://tomez.github.io/helm-test/deploy-base-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-06T14:19:13.108176+02:00"
